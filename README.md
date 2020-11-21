@@ -1,5 +1,7 @@
 # python-template
 
+[Pipenv](https://pipenv.pypa.io/en/latest/) boilerplate, with a little extra help to easily (re-)generate`requirements.txt` files.
+
 ## Quickstart
 
 ### Using the Github CLI
